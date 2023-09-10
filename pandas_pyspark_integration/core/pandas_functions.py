@@ -42,3 +42,5 @@ def fill_missing_values(data, method='mean'):
 def drop_columns(data, columns_to_drop):
     """Drop specified columns from a DataFrame."""
     return data.drop(columns=columns_to_drop)
+#ADD MORE FUNCTIONS
+
